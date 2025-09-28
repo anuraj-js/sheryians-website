@@ -49,6 +49,7 @@ nav .header .left-side {
     align-items: center;
     justify-content: center;
     gap: 7px;
+    cursor: pointer;
 }
 
 nav .header .left-side img {
@@ -75,6 +76,7 @@ nav .header .right-side {
 nav .header .right-side span {
     font-size: 1rem;
     font-weight: 500;
+    cursor: pointer;
 }
 
 nav .header .right-side span i {
@@ -86,6 +88,7 @@ nav .header .right-side img {
     height: 40px;
     width: 40px;
     border-radius: 50%;
+    cursor: pointer;
 }
 
 nav .header .responsive-right-side {
@@ -167,6 +170,7 @@ main .section1 .left .btn .buy-now, main .section1 .left .btn .syllabus {
     width: 37%;
     font-weight: 900;
     font-size: 1.3rem;
+    cursor: pointer;
 }
 
 main .section1 .left .btn .buy-now {
